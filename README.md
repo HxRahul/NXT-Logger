@@ -162,6 +162,16 @@ Inside the `examples/` folder:
 MIT License — see `LICENSE` for details.
 
 ---
+## 🧠 What I Learned
+
+- Connecting and communicating with LEGO Mindstorms NXT via Python (`nxt-python`).
+- Logging real-time sensor data safely (append/overwrite modes, filename sanitization).
+- Filtering noisy distance data using moving averages.
+- Calculating velocity and acceleration from discrete sensor samples.
+- Handling interruptions and sensor errors gracefully.
+- Creating clear data visualizations (raw vs filtered) with `matplotlib`.
+- Using `argparse` for flexible command-line analysis tools.
+- Writing documentation and including examples for others to replicate results.
 
 Happy logging & analyzing! 🦾
 
